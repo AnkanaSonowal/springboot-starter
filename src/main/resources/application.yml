@@ -1,0 +1,11 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/persondb
+    username: postgres
+    password: password
+    pool-size: 30
+#debug: true
+#cache:
+#  type: redis
+#  host: localhost
+#  port: 6379
